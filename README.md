@@ -4,7 +4,7 @@ Este projeto é um componente simples de QR code desenvolvido como um desafio do
 
 # Pré-visualização
 <div align="center">
-  <img src="https://prnt.sc/7eSEbTQnMwMz" alt="Pré-visualização do componente de QR code">
+  <img src="https://i.ibb.co/pxDGfZ9/Screenshot-19.png" alt="Pré-visualização do componente de QR code">
 </div>
 
 # Funcionalidades
